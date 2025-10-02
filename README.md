@@ -128,6 +128,7 @@ Phishing Analyzer is a command-line utility designed for Security Operations Cen
     phishing_analyzer_v1_1/
     ├── config.json                  # Configuration file
     ├── examples_for_testing.txt     # Usage examples
+    ├── LICENSE                      # MIT License
     ├── p_a.py                       # Main analysis script
     └── README.md                    # Documentation
 
