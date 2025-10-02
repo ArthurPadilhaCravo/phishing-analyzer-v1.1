@@ -1,0 +1,21 @@
+📊 Detection Examples
+
+  🔴 High-Risk Scenario
+  - text
+        === PHISHING ANALYZER v1.1 ===
+        URL: http://fake-bank-login.com
+        Email: attacker@temp-mail.org
+
+        🔴 ALERT: Insecure URL (HTTP)
+        🔴 ALERT: Temporary Email Detected
+        ⏹️  RECOMMENDATION: Block and investigate
+
+  - 🟢 Clean Scenario
+        text
+        === PHISHING ANALYZER v1.1 ===
+        URL: https://secure-banking.com
+        Email: employee@corporation.com
+
+        ✅ Secure URL (HTTPS)
+        ✅ Legitimate Email
+        ⏹️  RECOMMENDATION: Likely safe

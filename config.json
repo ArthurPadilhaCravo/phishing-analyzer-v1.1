@@ -1,0 +1,24 @@
+{
+    "versao": "1.1",
+    "autor": "padilha.ue",
+    "api_key_source": "environment_variable",
+    "temp_email_domains": [
+        "temp-mail.org",
+        "mailinator.com", 
+        "guerrillamail.com",
+        "10minutemail.com",
+        "yopmail.com",
+        "sharklasers.com",
+        "getairmail.com",
+        "tempmail.com",
+        "fakeinbox.com",
+        "trashmail.com"
+    ],
+    "suspicious_tlds": [
+        ".xyz",
+        ".top",
+        ".club",
+        ".info",
+        ".biz"
+    ]
+}
