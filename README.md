@@ -1,8 +1,8 @@
     🛡️ Phishing Analyzer v1.1
 
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/Platform-Linux%2520%257C%2520Windows%2520%257C%2520macOS-lightgrey
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey)
 
 Rapid phishing screening tool for SOC Analysts - Python-powered threat detection for quick incident triage.
 
